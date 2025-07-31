@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>School Registration Form</title>
+    <title>School Registration Form admission</title>
     <style>
         body {
             font-family: Arial, sans-serif;
