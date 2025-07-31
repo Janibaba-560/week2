@@ -4,15 +4,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>School Registration Form</title>
+    <title>School Registration Form admission</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #f2f2f2;
+            background: blue;
             padding: 20px;
         }
         .registration-form {
-            background: #fff;
+            background: red;
             padding: 30px;
             border-radius: 10px;
             max-width: 500px;
